@@ -1,0 +1,31 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+
+# Salidas y resultados
+*.log
+*.csv
+*.xlsx
+*.h5
+*.pkl
+*.joblib
+
+# Otros
+*.bak
